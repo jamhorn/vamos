@@ -1,3 +1,3 @@
-# vamos
+# Vamos
 
-Vamos is used to update an application using Squirrel
+Vamos is used to update an application using Squirrel.
